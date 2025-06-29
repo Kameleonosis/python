@@ -1,0 +1,3 @@
+Ovo je beleška za Git zadatak.
+Autor: Milan Jokić
+Datum: 29.06.2025.
